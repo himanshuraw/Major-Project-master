@@ -7,7 +7,7 @@ const LoginPage = () => {
       <div className="row">
         <div className="col-md-12">
           <div className="main-title text-center wow fadeIn">
-            <h3>Get Started</h3>
+            <h3>PORTAL</h3>
             <div className="underline1"></div>
             <div className="underline2"></div>
             <div className="row px-1 py-2">

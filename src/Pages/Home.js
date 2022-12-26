@@ -82,7 +82,7 @@ It gives a chance to a commoner to step forward and voluntarily help those helpl
                       <h3>Frightened Crowd</h3>
                       <div className="underline1"></div>
                       <img src="assets\img\crowd.jpeg" alt="Help'Em" />
-                      <div className="underline2"></div>
+                      
                       <p>
                         When a huge disaster strikes,people are usually in a
                         panic, and controlling crowd becomes a difficult task.
@@ -94,7 +94,7 @@ It gives a chance to a commoner to step forward and voluntarily help those helpl
                       <h3>Availability of Shelter </h3>
                       <div className="underline1"></div>
                       <img src="assets\img\download.png" alt="Help'Em" />
-                      <div className="underline2"></div>
+                      
                       <p>
                         During disasters, finding a shelter is very difficult
                         task.
@@ -106,28 +106,44 @@ It gives a chance to a commoner to step forward and voluntarily help those helpl
                       <h3>Finding your loved ones</h3>
                       <div className="underline1"></div>
                       <img src="assets\img\lovedone.jpeg" alt="Help'Em" />
-                      <div className="underline2"></div>
+                      
                       <p>
                         In such an adverse condition finding your relatives and
                         family members could be really tough.
                       </p>
                     </div>
                   </div>
+                  <div className="col-md-3 col-sm-6">
+                    <div className="love-details" data-wow-delay=".2s">
+                      <div></div>
+                      <h3>Relief</h3>
+                      <div className="underline1"></div>
+                      <img src="assets\img\help.png" alt="Help'Em" />
+                      <p>
+                        Help is provided.
+                      </p>
+                    </div>
+                  </div>
+                  
                 </div>
               </div>
             </div>
             <LoginPage />
-
+            <div>
+            </div>
             <div className="about-back"></div>
             <div className="love-grid text-center">
               <div className="container">
                 <div className="row">
                   <div className="col-md-12">
                     <div className="main-title text-center wow fadeIn">
-                      <h3>Overview</h3>
+                      <h3>Objectives
+
+                      </h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
                       <p className="wow fadeIn">
+
                         <li>
                           Making people aware of fore coming disasters to reduce
                           the impact using push notifications on the user’s app.
@@ -161,6 +177,100 @@ It gives a chance to a commoner to step forward and voluntarily help those helpl
                 </div>
               </div>
             </div>
+    </div>
+
+    {/* <!-- ============================================== SERVICE ===================================================== --> */}
+
+    <div id="service">
+          <div className="service-content">
+            <div className="service-grid text-center">
+              <div className="container">
+                    <div className="main-title text-center wow fadeIn">
+                      <h3>Let's Educate</h3>
+                      <div className="underline1"></div>
+                      
+                      <h4>To educate and make people aware, makes a DIFFERENCE!</h4>
+                    <h4> Phases of Post-disaster are the main key of our project. </h4>
+                    </div>
+                  
+                <div className="row love-row wow fadeIn">
+                  <div className="col-md-4 col-sm-6">
+                    <div className="service-details" data-wow-delay=".1s">
+                      <div className="service-head">
+                        <img
+                          src="assets\img\response.jpeg"
+                          alt="design-development"
+                        />
+                      </div>
+                      <div className="service-bottom">
+                        
+                        <h3>Response</h3>
+                        <div className="underline1"></div>
+                        <div className="underline2"></div>
+                        <p>
+                        Response measures are usually those which are taken immediately prior  to and following disaster impact.
+                        
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-md-4 col-sm-6">
+                    <div className="service-details" data-wow-delay=".1s">
+                      <div className="service-head">
+                        <img
+                          src="assets\img\recovery.png"
+                          alt="e-commarce"
+                        />
+                      </div>
+                      <div className="service-bottom">
+                        
+                        <h3>Recovery</h3>
+                        <div className="underline1"></div>
+                        <div className="underline2"></div>
+                        <p>
+                        It is the process by which communities are assisted in returning to their proper level of functioning after a disaster.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-md-4 col-sm-6">
+                    <div className="service-details" data-wow-delay=".1s">
+                      <div className="service-head">
+                        <img
+                          src="assets\img\relief&rescue.png"
+                          alt="analytics"
+                        />
+                      </div>
+                      <div className="service-bottom">
+                        
+                        <h3>Relief + Rescue </h3>
+                        <div className="underline1"></div>
+                        <div className="underline2"></div>
+                        <p>
+                          Phase begins when assistance from outside area starts reaching the disaster site.
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  
+                  
+                </div>
+              </div>
+            </div>
+            <div className="testimonial">
+              <div className="testimonial-content">
+                <div className="testimonial-grid">
+                  <div className="container">  
+                        <div className="main-title text-center wow fadeIn">
+                          <h3>Survey reports</h3>
+                          <div className="underline1"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
             <div className="work-counter text-center">
               <div className="counter">
                 <div className="container">
@@ -196,15 +306,90 @@ It gives a chance to a commoner to step forward and voluntarily help those helpl
                         <h3 className="Count">100</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>success</p>
+                        <p>Success</p>
                       </div>
+                      
                     </div>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
+          
+          <div className="text-grid-main">
+                <div className="container">
+                  <div className="row">
+                    <div className="col-md-12 col-sm-12">
+                      <div className="main-title text-center wow fadeIn">
+                        <h3>Hazards</h3>
+                        <div className="underline1"></div>
+                        <div className="underline2"></div>
+                        <p></p>
+                        
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <div className="work-counter text-center">
+              <div className="counter">
+                <div className="container">
+                  <div className="row wow fadeIn">
+                    <div className="col-md-3 col-sm-6">
+                      <div className="work-statistics">
+                        <p>Natural Hazards</p>
+                        <div class="fied-content">
+                          <p><a href="/Natural-Hazards/Cyclone" target="_blank">Cyclone</a></p>
+                          <p><a href="/Natural-Hazards/Tsunami" target="_blank">Tsunami</a></p>
+                          <p><a href="/Natural-Hazards/Floods" target="_blank">Floods</a></p>
+                          
+                          <p><a href="/Natural-Hazards/Lanslides" target="_blank">Lanslides</a></p>
+                          <p><a href="/Natural-Hazards/Earthquakes" target="_blank">Earthquakes</a></p>
+                          </div>
+                      </div>
+                    </div>
+                    <div className="col-md-3 col-sm-6">
+                      <div className="work-statistics">
+                      <p>Man-Made Hazards</p>
+                        <div class="fied-content">
+                          <p><a href="/Man-made-Hazards/Nuclear" target="_blank">Nuclear</a></p>
+                          <p><a href="/Man-made-Hazards/Chemical" target="_blank">Chemical</a></p>
+                          <p> <a href="/Man-made-Hazards/Biological" target="_blank">Biological</a></p>
+                          </div>
+                      </div>
+                    </div>
+                    <div className="col-md-3 col-sm-6">
+                      <div className="work-statistics">
+                      <p>SDMA</p>
+                        <div class="fied-content">
+                          <p><a href="http://www.apsdma.ap.gov.in/" target="_blank">Andhra Pradesh</a></p>
+                          <p><a href="https://itanagar.nic.in/disaster-management/" target="_blank">Arunachal Pradesh</a></p>
+                          <p><a href="http://bsdma.org/Home.aspx" target="_blank">Assam</a></p>
+                          <p><a href="https://revenue.cg.nic.in/CGSDMA/index.html" target="_blank">Bihar</a></p>
+                          <p><a href="/Governance/SDMA" target="_blank">More..</a></p>
+                          </div>
+                      </div>
+                    </div>
+                    <div className="col-md-3 col-sm-6">
+                      <div className="work-statistics">
+                        <p>Global Initiatives</p>
+                        <p><a href="/Global/International-Exercises" target="_blank">International Exercises</a></p>
+                          <p><a href="/Global/GPDRR" target="_blank">GPDRR</a></p>
+                          <p> <a href="/Global/AMCDRR" target="_blank">AMCDRR</a></p>
+                          <p> <a href="/Global/sendai-framework" target="_blank">Sendai Framework</a></p>
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+        
+        
+        
+
         
         {/* <!-- ================================ CONTACT ========================== --> */}
 
@@ -216,7 +401,7 @@ It gives a chance to a commoner to step forward and voluntarily help those helpl
                   <div className="row">
                     <div className="col-md-12 col-sm-12">
                       <div className="main-title text-center wow fadeIn">
-                        <h3>Contact Us</h3>
+                        <h3>Contacts And Helplines</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
                         <p></p>
@@ -230,117 +415,7 @@ It gives a chance to a commoner to step forward and voluntarily help those helpl
             <div className="contact-grid">
               <div className="contact-form-details wow fadeIn">
                 <div className="container">
-                  {/* <div className="row contact-row">
-                    <div className="col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-1 contact-col">
-                      <h3>Write Your Message Here</h3>
-                      <div className="contact-form">
-                        <form
-                          action="https://herokuapp.us6.list-manage.com/subscribe/post?u=870e1b447d1f93893227a9c52&amp;id=85d6c939a5"
-                          method="post"
-                          id="mc-embedded-subscribe-form contactForm"
-                          name="mc-embedded-subscribe-form"
-                          className="contact-form shake validate"
-                          target="_blank" 
-                          data-toggle="validator"
-                          novalidate
-                        >
-                          <div className="form-group">
-                            <div className="controls">
-                              <input
-                                type="text"
-                                name="FLNAME"
-                                id="mce-FLNAME"
-                                className="required form-control"
-                                placeholder="Your Name"
-                                required
-                                data-error="Please enter your name"
-                              />
-                              <div className="help-block with-errors"></div>
-                            </div>
-                          </div>
-                          <div className="form-group">
-                            <div className="controls">
-                              <input
-                                type="email"
-                                className="email required form-control"
-                                name="EMAIL"
-                                id="mce-EMAIL"
-                                placeholder="Your Email"
-                                required
-                                data-error="Please enter your email"
-                              />
-                              <div className="help-block with-errors"></div>
-                            </div>
-                          </div>
-                          <div className="form-group">
-                            <div className="controls">
-                              <input
-                                type="phone"
-                                name="PHONE"
-                                className="phone form-control"
-                                id="phone mce-PHONE"
-                                placeholder="Your Phone"
-                                required
-                                data-error="Please enter your phone"
-                              />
-                              <div className="help-block with-errors"></div>
-                            </div>
-                          </div>
-                          <div className="form-group">
-                            <div className="controls">
-                              <textarea
-                                id="message mce-MESSAGE"
-                                rows="7"
-                                placeholder="Your Massage"
-                                name="MESSAGE"
-                                className="required form-control"
-                                required
-                                data-error="Please enter your message"
-                              ></textarea>
-                              <div className="help-block with-errors"></div>
-                            </div>
-                          </div>
-                          <div id="mce-responses" class="clear">
-                            <div
-                              class="response"
-                              id="mce-error-response"
-                              style={{ display: "none" }}
-                            ></div>
-                            <div
-                              class="response"
-                              id="mce-success-response"
-                              style={{ display: "none" }}
-                            ></div>
-                          </div>
-                          <div
-                            style={{ position: "absolute", left: "-5000px" }}
-                            aria-hidden="true"
-                          >
-                            <input
-                              type="text"
-                              name="b_870e1b447d1f93893227a9c52_85d6c939a5"
-                              tabindex="-1"
-                              value=""
-                            />
-                          </div>
-                          <button
-                            type="submit"
-                            value="Subscribe"
-                            name="subscribe"
-                            id="submit mc-embedded-subscribe"
-                            className="btn btn-success"
-                          >
-                            Send Message
-                          </button>
-                          <div
-                            id="msgSubmit"
-                            className="h3 text-center hidden"
-                          ></div>
-                          <div className="clearfix"></div>
-                        </form>
-                      </div>
-                    </div>
-                  </div> */}
+      
                   <div className="row contact-info-row text-center wow fadeIn">
                     <div className="col-md-3 col-sm-6 contact-colamn">
                       <div className="contact-col-info" data-wow-delay=".2s">
@@ -394,38 +469,38 @@ It gives a chance to a commoner to step forward and voluntarily help those helpl
                         >
                           National Emergency Response Center, Disaster
                           Management Division, Ministry of Home Affairs : Phone
-                          No. : 011-23438252,011-23438250 Helpline: 011 1070
-                          National Disaster Management Authority: Phone No. :
-                          011 26701728/730 Fax: 011 26701729 Helpline: 011 1078
-                          +91 8372876775
+                          No. : 011-23438252,011-23438250 
                         </a>
                       </div>
                     </div>
                     <div className="col-md-3 col-sm-6 contact-colamn">
                       <div className="contact-col-info" data-wow-delay=".6s">
+                      <i
+                          className="fa fa-mobile contact-icon"
+                          aria-hidden="true"
+                        ></i>
+                        <h3>Dial Up</h3>
+                        <h3>HelpLine</h3>
+                        <a
+                          href="tel:8372876775"
+                          style={{
+                            color: "black",
+                            textDecoration: "none",
+                            fontSize: "17px",
+                          }}
+                        >
+                          Helpline: 011 1070
+                          National Disaster Management Authority: 
+                          <ul>Phone No. :
+                          011 26701728/730</ul> Fax: 011 26701729 Helpline: 011 1078
+                          +91 8372876775
+                        </a>
                         
                       </div>
                     </div>
                   </div>
                 </div>
-                <div class="container-fluid map-col">
-                  <div class="col-md-12 col-sm-12 map-col">
-                    <div class="google-maps">
-                      <div class="map-wrap">
-                        <iframe
-                          title="google-maps"
-                          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d471220.5630603985!2d88.0495328251319!3d22.675752087592436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39f882db4908f667%3A0x43e330e68f6c2cbc!2sKolkata%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1653845709428!5m2!1sen!2sin"
-                          width="100%"
-                          height="450"
-                          style={{ border: "0" }}
-                          allowfullscreen=""
-                          loading="lazy"
-                          referrerpolicy="no-referrer-when-downgrade"
-                        ></iframe>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+                
               </div>
             </div>
           </div>
