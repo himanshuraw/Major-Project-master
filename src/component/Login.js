@@ -1,7 +1,6 @@
 import axios from "axios";
 import React, { useState } from "react";
-
-
+import { useHistory } from "react-router";
 import "./login.css";
 
 const Login = () => {
@@ -9,6 +8,7 @@ const Login = () => {
     name: "",
     password: "",
   });
+  const history = useHistory();
 
   const handleChange = (e) => {
     const { name, value } = e.target;
@@ -25,6 +25,7 @@ const Login = () => {
         password: user.password
     }).then(response => {
         console.log(response);
+        history.push("/");
     })
   }
 
