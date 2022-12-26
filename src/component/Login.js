@@ -29,7 +29,7 @@ const Login = () => {
     })
   }
 
-  return (
+  return (  
     <div style={{ height: "100vh", display: "flex", alignContent: "center" }}>
       <div className="login" style={{ margin: "auto" }}>
         {console.log(user)}
@@ -48,7 +48,11 @@ const Login = () => {
           onChange={handleChange}
           placeholder="Enter Your Password"
         ></input>
-        <div className="button" onClick={submit}>Login</div>
+        <div className="button" onClick={submit}
+
+        
+        
+        >Login</div>
       </div>
     </div>
   );

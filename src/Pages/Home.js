@@ -81,43 +81,36 @@ It gives a chance to a commoner to step forward and voluntarily help those helpl
                     <div className="love-details" data-wow-delay=".1s">
                       <h3>Frightened Crowd</h3>
                       <div className="underline1"></div>
-                      <img src="assets/img/shelter.png" alt="Help'Em" />
+                      <img src="assets\img\crowd.jpeg" alt="Help'Em" />
                       <div className="underline2"></div>
                       <p>
                         When a huge disaster strikes,people are usually in a
                         panic, and controlling crowd becomes a difficult task.
                       </p>
-                      
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
                     <div className="love-details" data-wow-delay=".3s">
                       <h3>Availability of Shelter </h3>
                       <div className="underline1"></div>
-                      <img src="assets/img/shelter.png" alt="Help'Em" />
+                      <img src="assets\img\download.png" alt="Help'Em" />
+                      <div className="underline2"></div>
                       <p>
                         During disasters, finding a shelter is very difficult
-                        task
+                        task.
                       </p>
-                      
-          
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
                     <div className="love-details" data-wow-delay=".2s">
                       <h3>Finding your loved ones</h3>
-                      
-                      <img src="assets/img/shelter.png" alt="Help'Em" />
+                      <img src="assets\img\lovedone.jpeg" alt="Help'Em" />
                       <div className="underline2"></div>
                       <p>
                         In such an adverse condition finding your relatives and
                         family members could be really tough.
                       </p>
-                      
                     </div>
-                  </div>
-                  <div className="col-md-3 col-sm-6">
-                    
                   </div>
                 </div>
               </div>
@@ -125,25 +118,14 @@ It gives a chance to a commoner to step forward and voluntarily help those helpl
             <LoginPage />
 
             <div className="about-back"></div>
-            <div className="me-grid">
+            <div className="love-grid text-center">
               <div className="container">
                 <div className="row">
-                  <div className="col-md-4 col-sm-6 col-xs-12 about-col">
-                    <div className="about-image">
-                      <img
-                        src="--"
-                        alt="sanajit-jana"
-                        className="about-img wow fadeIn"
-                      />
-                    </div>
-                  </div>
-                  <div className="col-md-8 col-sm-6 col-xs-12 about-col">
-                    <div className="about-details wow fadeIn">
-                      <div className="main-title left-title text-left wow fadeIn">
-                        <h3>Objectives</h3>
-                        <div className="underline1 no-margin"></div>
-                        <div className="underline2 no-margin"></div>
-                      </div>
+                  <div className="col-md-12">
+                    <div className="main-title text-center wow fadeIn">
+                      <h3>Overview</h3>
+                      <div className="underline1"></div>
+                      <div className="underline2"></div>
                       <p className="wow fadeIn">
                         <li>
                           Making people aware of fore coming disasters to reduce
@@ -184,372 +166,45 @@ It gives a chance to a commoner to step forward and voluntarily help those helpl
                   <div className="row wow fadeIn">
                     <div className="col-md-3 col-sm-6">
                       <div className="work-statistics">
-                        <i
-                          className="fa fa-pencil-square-o stat-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3 className="Count">0021</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>Web Design Completed</p>
-                      </div>
-                    </div>
-                    <div className="col-md-3 col-sm-6">
-                      <div className="work-statistics">
-                        <i
-                          className="fa fa-crop stat-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3 className="Count">0040</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>UI/UX Design Done</p>
-                      </div>
-                    </div>
-                    <div className="col-md-3 col-sm-6">
-                      <div className="work-statistics">
-                        <i
-                          className="fa fa-bolt stat-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3 className="Count">0015</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>Website Created</p>
-                      </div>
-                    </div>
-                    <div className="col-md-3 col-sm-6">
-                      <div className="work-statistics">
-                        <i
-                          className="fa fa-coffee stat-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3 className="Count">0085</h3>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>Cups Coffee Taken</p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-
-        {/* <!-- ================================ Skill =============================== --> */}
-
-        <div id="skill">
-          <div className="skill-main">
-            <div className="container">
-              <div className="row">
-                <div className="col-md-12">
-                  <div className="main-title text-center wow fadeIn">
-                    <h3>oooo.</h3>
-                    <div className="underline1"></div>
-                    <div className="underline2"></div>
-                    <p>
-                      Aanchal negi
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="row love-row wow fadeIn">
-                <div className="col-md-6">
-                  <div className="skill-details text-left">
-                    
-                  </div>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-
-        {/* <!-- ================================ RESUME =============================== --> */}
-
-        <div id="resume">
-          <div className="resume-content">
-            <div className="resume-grid text-center">
-              <div className="container">
-                <div className="row">
-                  <div className="col-md-12">
-                    <div className="main-title text-center wow fadeIn">
-                      <h3>Educational Story</h3>
-                      <div className="underline1"></div>
-                      <div className="underline2"></div>
-                      <p>
-                        I like to code things from scratch, and enjoy bringing
-                        ideas to life in the browser.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div className="row love-row wow fadeIn">
-                  <div className="col-md-4 col-sm-4">
-                    <div className="resume-details" data-wow-delay=".2s">
-                      <div className="resume-hover"></div>
-                      <div className="resume-main">
-                        <i
-                          className="fa fa-home resume-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Publications</h3>
-
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>---</p>
-                        <h3>School</h3>
-                        <h2>2010-2017</h2>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>
-                          Completed my school life from Haludbari High School
-                          (H.S.), Khejuri, West Bengal, India.
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="col-md-4 col-sm-4">
-                    <div className="resume-details" data-wow-delay=".3s">
-                      <div className="resume-hover"></div>
-                      <div className="resume-main">
-                        <i
-                          className="fa fa-graduation-cap resume-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Disaster Reports</h3>
-
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
                         
-                        <h3>Graduation</h3>
-                        <h2>2017-2020</h2>
+                        <h3 className="Count">100</h3>
                         <div className="underline1"></div>
                         <div className="underline2"></div>
-                        <p>
-                          Achieved my Graduation Degree from{" "}
-                          <a
-                            href="https://www.cclms.org/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            CCLMS (Contai College of Learning and Management
-                            Science)
-                          </a>
-                          , Contai, West Bengal, India.
-                        </p>
+                        <p>Rescued</p>
+                      </div>
+                    </div>
+                    <div className="col-md-3 col-sm-6">
+                      <div className="work-statistics">
+                        
+                        <h3 className="Count">100</h3>
+                        <div className="underline1"></div>
+                        <div className="underline2"></div>
+                        <p>Shelters</p>
+                      </div>
+                    </div>
+                    <div className="col-md-3 col-sm-6">
+                      <div className="work-statistics">
+                        <h3 className="Count">100</h3>
+                        <div className="underline1"></div>
+                        <div className="underline2"></div>
+                        <p>Registered</p>
+                      </div>
+                    </div>
+                    <div className="col-md-3 col-sm-6">
+                      <div className="work-statistics">
+                        <h3 className="Count">100</h3>
+                        <div className="underline1"></div>
+                        <div className="underline2"></div>
+                        <p>success</p>
                       </div>
                     </div>
                   </div>
-                  <div className="col-md-4 col-sm-4">
-                    <div className="resume-details" data-wow-delay=".4s">
-                      <div className="resume-hover"></div>
-                      <div className="resume-main">
-                        <i
-                          className="fa fa-graduation-cap resume-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Training &amp; Skill</h3>
-                        <h2>2022-2022</h2>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>
-                          Currently learning Full-Stack Web Development from{" "}
-                          <a
-                            href="https://masaischool.com/"
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            Masai School
-                          </a>
-                          , Bengaluru, India.
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <div className="row main-row wow fadeIn">
-                  <div className="col-md-12">
-                    <div className="main-title text-center">
-                      <h3>Working Experience</h3>
-                      <div className="underline1"></div>
-                      <div className="underline2"></div>
-                      <p>
-                        I don’t like to define myself by the work I’ve done. I
-                        define myself by the work I want to do.
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div className="row love-row">
-                  
-                  
-                  {/* <div className="col-md-4 col-sm-4">
-                    <div className="exp-details" data-wow-delay=".4s">
-                      <div className="exp-hover"></div>
-                      <div className="exp-main">
-                        <i
-                          className="fa fa-cogs exp-icon"
-                          aria-hidden="true"
-                        ></i>
-                        <h3>Supreme Company</h3>
-                        <h4>Designer &amp; Developer</h4>
-                        <h2>2013-2016</h2>
-                        <div className="underline1"></div>
-                        <div className="underline2"></div>
-                        <p>Lorem Ipsum is simply dummy text of the printing.</p>
-                      </div>
-                    </div>
-                  </div> */}
                 </div>
               </div>
             </div>
           </div>
         </div>
-
-        {/* <!-- ================================ WORK =============================== --> */}
-
-        {/* <div id="work">
-          <div className="work-content">
-            <div className="work-grid">
-              <div className="container">
-                <div className="row">
-                  <div className="col-md-12">
-                    <div className="main-title text-center wow fadeIn">
-                      <h3>Work Portfolio</h3>
-                      <div className="underline1"></div>
-                      <div className="underline2"></div>
-                      <p>
-                        Here are a few design projects I've worked on recently.
-                        Want to see more?{" "}
-                        <a className="underline2" href="#contact">
-                          contact me.
-                        </a>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="container">
-                <div className="gallery" style={{ paddingTop: "80px" }}>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=500&h=500&fit=crop"
-                        alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1515260268569-9271009adfdb?w=500&h=500&fit=crop"
-                        alt="sunset behind San Francisco city skyline"
-                      />
-                    </div>
-                  </a>
-                  <div className="gallery-item">
-                    <img
-                      className="gallery-image"
-                      src="https://images.unsplash.com/photo-1506045412240-22980140a405?w=500&h=500&fit=crop"
-                      alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan"
-                    />
-                  </div>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1514041181368-bca62cceffcd?w=500&h=500&fit=crop"
-                        alt="car interior from central back seat position showing driver and blurred view through windscreen of a busy road at night"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1445810694374-0a94739e4a03?w=500&h=500&fit=crop"
-                        alt="back view of woman wearing a backpack and beanie waiting to cross the road on a busy street at night in New York City, USA"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1486334803289-1623f249dd1e?w=500&h=500&fit=crop"
-                        alt="man wearing a black jacket, white shirt, blue jeans, and brown boots, playing a white electric guitar while sitting on an amp"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=500&h=500&fit=crop"
-                        alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1515260268569-9271009adfdb?w=500&h=500&fit=crop"
-                        alt="sunset behind San Francisco city skyline"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1506045412240-22980140a405?w=500&h=500&fit=crop"
-                        alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=500&h=500&fit=crop"
-                        alt="person writing in a notebook beside by an iPad, laptop, printed photos, spectacles, and a cup of coffee on a saucer"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1515260268569-9271009adfdb?w=500&h=500&fit=crop"
-                        alt="sunset behind San Francisco city skyline"
-                      />
-                    </div>
-                  </a>
-                  <a href="#">
-                    <div className="gallery-item">
-                      <img
-                        className="gallery-image"
-                        src="https://images.unsplash.com/photo-1506045412240-22980140a405?w=500&h=500&fit=crop"
-                        alt="people holding umbrellas on a busy street at night lit by street lights and illuminated signs in Tokyo, Japan"
-                      />
-                    </div>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div> */}
-
-
         
-
         {/* <!-- ================================ CONTACT ========================== --> */}
 
         <div id="contact">
