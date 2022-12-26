@@ -104,6 +104,7 @@ It gives a chance to a commoner to step forward and voluntarily help those helpl
                   <div className="col-md-3 col-sm-6">
                     <div className="love-details" data-wow-delay=".2s">
                       <h3>Finding your loved ones</h3>
+                      <div className="underline1"></div>
                       <img src="assets\img\lovedone.jpeg" alt="Help'Em" />
                       <div className="underline2"></div>
                       <p>
