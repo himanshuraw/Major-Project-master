@@ -46,13 +46,15 @@ export const Register = () => {
           placeholder="Your Password"
           onChange={handleChange}
         ></input>
+      
         <input
           type="password"
-          name="reEnterPassoword"
+          name="reEnterPassword"
           value={user.reEnterPassword}
           placeholder="Re-enter Your Password"
           onChange={handleChange}
         ></input>
+        
         <div className="button" onClick={submit}>
           Register
         </div>
